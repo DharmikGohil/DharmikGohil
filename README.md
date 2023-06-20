@@ -42,10 +42,12 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmikgohil&theme=radical&show_icons=true" />
 </div>
 
-<img align="right" height="300" width="300" src="https://octodex.github.com/images/spidertocat.png">
+<img align="right" height="150" width="150" src="https://octodex.github.com/images/spidertocat.png">
   
 <!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=dharmikgohil&theme=react-dark&hide_border=true) -->
 <br>
+<br>
+
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dharmikgohil&theme=nord&no-frame=true&no-bg=false&margin-w=4)
