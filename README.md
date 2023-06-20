@@ -1,16 +1,48 @@
-### Hi there 👋
+<h1 align="left">  Hello  Coders🚀 And Editors😼, I'm Dharmik Gohil<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
+<img align="right" src="https://i.gifer.com/JXA0.gi" alt="ria-monga" height="400" />
 
-<!--
-**DharmikGohil/DharmikGohil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---------------------------------------
+# 😉About Me :
+- 🔭 I’m currently working on backend web.
+- 🌱 Focusing on more web dev.
+- 👯 Looking to collaborate on web dev project.
+- 💬 Ask me about any web-related or Editing releted stuff.
+- 📫 How to reach me: Twitter - <a href="https://twitter.com/dharmikgohil_">@dharmikgohil_r</a> or Email: dharmikgohil2020@gmail.com.
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Also master in Premier Pro😋.
+  
+<br/>
+ 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/javascript-%23777BB4.svg?style=for-the-badge&logo=javascript&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
+
+## 🌐Socials
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dharmikgohil) [![Leetcode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=leetcode&logoColor=white)](https://linkedin.com/in/dharmikgohil) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anshrathodfr) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshrathodfr)  
+
+<br/>
+
+🟡 Statistics ✨
+<br />
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dharmikgohil&theme=radical&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmikgohil&theme=radical&show_icons=true" />
+</div>
+  
+<!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=dharmikgohil&theme=react-dark&hide_border=true) -->
+<br>
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dharmikgohil&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
