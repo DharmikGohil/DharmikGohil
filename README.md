@@ -1,13 +1,16 @@
-<h1 align="left">  Hello  Coders🚀 And Editors😼, I'm Dharmik Gohil<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
-<img align="right" src="https://i.gifer.com/JXA0.gi" alt="ria-monga" height="400" />
+<h1 align="left">  Hello  Coders🚀 And Editors😼, I'm Dharmik Gohil
+
+<img align="right" alt="coding" height="400" src="![working](https://github.com/DharmikGohil/DharmikGohil/assets/86297731/1098da20-ed8f-4e11-adf6-67ad1d8e72ec)">
 
 ---------------------------------------
+
+
 # 😉About Me :
 - 🔭 I’m currently working on backend web.
 - 🌱 Focusing on more web dev.
 - 👯 Looking to collaborate on web dev project.
 - 💬 Ask me about any web-related or Editing releted stuff.
-- 📫 How to reach me: Twitter - <a href="https://twitter.com/dharmikgohil_">@dharmikgohil_r</a> or Email: dharmikgohil2020@gmail.com.
+- 📫 How to reach me: Twitter - <a href="https://twitter.com/dharmikgohil_">@dharmikgohil_</a> or Email: gohildharmik2020@gmail.com.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Also master in Premier Pro😋.
   
