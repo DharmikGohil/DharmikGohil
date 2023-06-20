@@ -4,6 +4,7 @@
 <img align="right" alt="coding" width="400"  src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif"> -->
 
 ----------------------------------------------------------------------
+  <br /><img src="https://badges.pufler.dev/visits/Dharmikgohil/dharmikgohil">
 # 😉About Me :
 - 🔭 I’m currently working on backend web.
 - 🌱 Focusing on more web dev.
@@ -20,7 +21,8 @@
 # 💻Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/javascript-%23777BB4.svg?style=for-the-badge&logo=javascript&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-
+  <br />
+    <br />
 
 ## 🌐Socials
 <br/>
@@ -30,10 +32,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshrathodfr)  
 
 <br/>
+  <br />
 
 🟡 Statistics ✨
 <br />
-
+  <br />
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dharmikgohil&theme=radical&show_icons=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmikgohil&theme=radical&show_icons=true" />
@@ -44,7 +47,8 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dharmikgohil&theme=nord&no-frame=true&no-bg=false&margin-w=4)
-
+  <br />
+    <br />
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
