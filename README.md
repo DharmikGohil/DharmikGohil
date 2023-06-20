@@ -1,10 +1,7 @@
 <h1 align="left">  Hello  Coders🚀 And Editors😼, I'm Dharmik Gohil
 <br>
-</br>
-
-
-
-<img align="right" alt="coding" width="400"  src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif">
+<!-- </br>
+<img align="right" alt="coding" width="400"  src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif"> -->
 
 ----------------------------------------------------------------------
 # 😉About Me :
