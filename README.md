@@ -1,10 +1,12 @@
 <h1 align="left">  Hello  Coders🚀 And Editors😼, I'm Dharmik Gohil
-
-<img align="right" alt="coding" height="400" src="![working](https://github.com/DharmikGohil/DharmikGohil/assets/86297731/1098da20-ed8f-4e11-adf6-67ad1d8e72ec)">
-
----------------------------------------
+<br>
+</br>
 
 
+
+<img align="right" alt="coding" width="500"  src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif">
+
+----------------------------------------------------------------------
 # 😉About Me :
 - 🔭 I’m currently working on backend web.
 - 🌱 Focusing on more web dev.
