@@ -4,7 +4,7 @@
 
 
 
-<img align="right" alt="coding" width="500"  src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif">
+<img align="right" alt="coding" width="400"  src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif">
 
 ----------------------------------------------------------------------
 # 😉About Me :
