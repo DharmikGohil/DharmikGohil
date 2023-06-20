@@ -41,6 +41,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dharmikgohil&theme=radical&show_icons=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmikgohil&theme=radical&show_icons=true" />
 </div>
+
+<img align="right" height="300" src="https://octodex.github.com/images/spidertocat.png">
   
 <!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=dharmikgohil&theme=react-dark&hide_border=true) -->
 <br>
