@@ -11,7 +11,6 @@
 - 👯 Looking to collaborate on web dev project.
 - 💬 Ask me about any web-related or Editing releted stuff.
 - 📫 How to reach me: Twitter - <a href="https://twitter.com/dharmikgohil_">@dharmikgohil_</a> or Email: gohildharmik2020@gmail.com.
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: Also Master in Premier Pro😋.
   
 <br/>
