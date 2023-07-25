@@ -19,8 +19,8 @@
 
 # 💻Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/javascript-%23777BB4.svg?style=for-the-badge&logo=javascript&logoColor=white) 
-![react](https://img.shields.io/badge/react-3670A0?style=for-the-badge&logo=react&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-3670A0?style=for-the-badge&logo=C&logoColor=ffdd54) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![PHP](https://img.shields.io/badge/php-3670A0?style=for-the-badge&logo=php&logoColor=ffdd54) ![react](https://img.shields.io/badge/react-3670A0?style=for-the-badge&logo=react&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-3670A0?style=for-the-badge&logo=C&logoColor=ffdd54) 
+
   <br />
     <br />
 
