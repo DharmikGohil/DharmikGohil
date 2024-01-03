@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on backend web.
 - 🌱 Focusing on more web dev.
 - 👯 Looking to collaborate on web dev project.
-- 💬 Ask me about any web-related or Editing releted stuff.
 - 📫 How to reach me: Twitter - <a href="https://twitter.com/dharmikgohil_">@dharmikgohil_</a> or Email: gohildharmik2020@gmail.com.
 - ⚡ Fun fact: Also Master in Premier Pro😋.
 - See my portfolio at - https://dharmikgohil.link/ 👀
