@@ -1,4 +1,4 @@
-<h1 align="left">  Hello  Coders🚀, I'm Dharmik Gohil
+<h1 align="left">  Hey! Thanks for stopping by.
 <br>
 <!-- </br>
 <img align="right" alt="coding" width="400"  src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif"> -->
