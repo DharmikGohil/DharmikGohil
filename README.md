@@ -15,8 +15,7 @@
 - 🌱 Focusing on advancing my web development skills.
 - 👯 Looking to collaborate on web development projects.
 - 📫 How to reach me: Twitter - [@dharmikgohil_](https://twitter.com/dharmikgohil_) or Email: [gohildharmik2020@gmail.com](mailto:gohildharmik2020@gmail.com).
-- ⚡ Fun fact: I'm also a master in Adobe Premiere Pro 😋.
-- 👀 Check out my portfolio at [dharmikgohil.link](https://dharmikgohil.link/).
+- 👀 Check out my portfolio at [dharmikgohil.vercel.app](https://dharmikgohil.vercel.app/).
 
 ## 💻 Tech Stack
 
