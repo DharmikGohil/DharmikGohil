@@ -1,5 +1,7 @@
 <h1 align="center">Hey! Thanks for stopping by 👋</h1>
 
+![Snake animation](https://github.com/DharmikGohil/DharmikGohil/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
   <img src="https://badges.pufler.dev/visits/Dharmikgohil/dharmikgohil" alt="visits badge">
 </p>
