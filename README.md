@@ -1,10 +1,11 @@
 <h1 align="center">Hey! Thanks for stopping by 👋</h1>
 
-![Snake animation](https://github.com/DharmikGohil/DharmikGohil/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://badges.pufler.dev/visits/Dharmikgohil/dharmikgohil" alt="visits badge">
 </p>
+
+![Snake animation](https://github.com/DharmikGohil/DharmikGohil/blob/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dharmikgohil&theme=dark" alt="GitHub Streak">
