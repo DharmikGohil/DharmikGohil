@@ -1,3 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+
+<img align="right" height="150" width="150" src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat">
+
 <h1 align="center">Hey! Thanks for stopping by 👋</h1>
 
 
@@ -7,11 +11,34 @@
 
 ![Snake animation](https://github.com/DharmikGohil/DharmikGohil/blob/output/github-contribution-grid-snake-dark.svg)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dharmikgohil&theme=dark" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=dharmikgohil&theme=radical&show_icons=true" alt="GitHub Stats">
-  
-</p>
+<h3 align="center">Git Stats</h3>
+
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com/?user=dharmikgohil&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmikgohil&custom_title=Dharmik's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<br>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmikgohil&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dharmikgohil&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dharmikgohil&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=dharmikgohil&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharmikgohil&theme=highcontrast&hide_border=true">
 
 ## 😉 About Me
 
@@ -65,29 +92,7 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## 📊 Weekly Coding Stats
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img align="center" height="150" width="150" src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat">
 
-## 🚀 Contribution Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=dharmikgohil&theme=react-dark&hide_border=true" alt="Contribution Graph">
-</p>
-
-## 🌆 GitHub Skyline
-
-<p align="center">
-  <a href="https://skyline.github.com/dharmikgohil/2023">
-    <img src="https://skyline.github.com/dharmikgohil/2023/preview.png" alt="GitHub Skyline">
-  </a>
-</p>
-
-## 🟡 More Statistics ✨
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmikgohil&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
-<img align="right" height="150" width="150" src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
