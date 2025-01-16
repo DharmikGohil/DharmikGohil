@@ -40,6 +40,8 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharmikgohil&theme=highcontrast&hide_border=true">
 
+<img src="https://leetcard.jacoblin.cool/dharmikgohil?theme=dark&font=Carrois%20Gothic%20SC&ext=contest" alt="LeetCode Stats" width="500px">
+              
 ## 😉 About Me
 
 - 🔭 I’m currently working on backend web development.
