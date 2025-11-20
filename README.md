@@ -1,4 +1,4 @@
-<h1 align="center">“💼 Currently Creating Production-Grade Code at : <a href="https://github.com/dharmik-at">dharmik-at</a>”</h1>
+<h1 align="center">“ Currently Creating Production-Grade Code at : <a href="https://github.com/dharmik-at">dharmik-at</a> ”</h1>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
