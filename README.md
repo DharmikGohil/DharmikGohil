@@ -13,6 +13,35 @@
 
 ![Snake animation](https://github.com/DharmikGohil/DharmikGohil/blob/output/github-contribution-grid-snake-dark.svg)
 
+<h1 align="center">Tech Stack</h1>
+
+<p align="center">
+  <!-- Core Languages -->
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,postgresql,mysql" height="45"/>
+  
+  <!-- Backend / Infra -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,docker,linux,aws" height="45"/>
+  
+  <!-- Databases & Search -->
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Vector%20DBs-FF4088?style=for-the-badge&logo=databricks&logoColor=white" height="28"/>
+  
+  <!-- AI / ML Tools -->
+  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Semantic%20Search-FF1493?style=for-the-badge&logo=elastic&logoColor=white" height="28"/>
+  
+  <!-- Practices -->
+  <img src="https://img.shields.io/badge/OOP-FF5733?style=for-the-badge&logo=databricks&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/TDD-1E90FF?style=for-the-badge&logo=jest&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/System%20Design-228B22?style=for-the-badge&logo=azuredevops&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Modular%20Architecture-9400D3?style=for-the-badge&logo=archlinux&logoColor=white" height="28"/>
+  
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" height="45"/>
+  <img src="https://img.shields.io/badge/Cursor-FF69B4?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="28"/>
+</p>
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
@@ -43,41 +72,20 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharmikgohil&theme=highcontrast&hide_border=true">
 </p>
 <div>
-<a href="https://leetcode.com/u/dharmikgohil/">Dharmik</a>'s Leetcode Stats
+
+# 📌 Featured Projects  
+
+<p align="center">
+  <a href="https://github.com/DharmikGohil/Sentient-SDK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharmikgohil&repo=Sentient-SDK&theme=radical" />
+  </a>
+
+</p>
+
+# Leetcode Stats
 </div>
 </br>
 <img src="https://leetcard.jacoblin.cool/dharmikgohil?theme=dark&font=Carrois%20Gothic%20SC&ext=contest" alt="LeetCode Stats" width="500px">
-              
-## 😉 About Me
-
-- 🔭 I’m currently working on backend web development.
-- 🌱 Focusing on advancing my web development skills.
-- 👯 Looking to collaborate on web development projects.
-- 📫 How to reach me: Twitter - [@dharmikgohil_](https://twitter.com/dharmikgohil_) or Email: [gohildharmik2020@gmail.com](mailto:gohildharmik2020@gmail.com).
-- 👀 Check out my portfolio at [dharmikgohil.vercel.app](https://dharmikgohil.vercel.app/).
-
-## 💻 Tech Stack
-
-### Languages
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Other
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
@@ -97,8 +105,12 @@
 </p>
 
 ## ✍️ Random Dev Quote
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 𝕏 Twitter - [@dharmikgohil_](https://twitter.com/dharmikgohil_) 
+### 📨 Email: [dharmikgohil.dev@gmail.com](mailto:dharmikgohil.dev@gmail.com).
+### 💼 Check out my portfolio at [dharmikgohil.vercel.app](https://dharmikgohil.vercel.app/).
+
 
 
 <img align="center" height="150" width="150" src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat">
