@@ -13,7 +13,7 @@
 
 ![Snake animation](https://github.com/DharmikGohil/DharmikGohil/blob/output/github-contribution-grid-snake-dark.svg)
 
-<h1 align="center">Tech Stack</h1>
+<h1 align="center">Tech Stack I use</h1>
 
 <p align="center">
   <!-- Core Languages -->
