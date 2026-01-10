@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-<img align="right" height="150" width="150" src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat">
-
 <h1 align="center">Hey! Thanks for stopping by 👋</h1>
 
 
