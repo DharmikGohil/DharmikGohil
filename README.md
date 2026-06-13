@@ -107,7 +107,7 @@
 
 ### 𝕏 Twitter - [@dharmikgohil_](https://twitter.com/dharmikgohil_) 
 ### 📨 Email: [dharmikgohil.dev@gmail.com](mailto:dharmikgohil.dev@gmail.com).
-### 💼 Check out my portfolio at [dharmikgohil.vercel.app](https://dharmikgohil.vercel.app/).
+### 💼 Check out my personal website at [dharmikgohil.in](https://dharmikgohil.in/).
 
 
 
